@@ -24,5 +24,5 @@ SkyPulse is a modern weather application that provides real-time weather forecas
 
 1. Clone the repository  
    ```sh
-   git clone https://github.com/yourusername/skypulse.git
-   cd skypulse
+   git clone https://github.com/cnikhil469/SkyPulse.git
+   cd SkyPulse
