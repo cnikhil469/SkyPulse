@@ -19,7 +19,6 @@ SkyPulse is a modern weather application that provides real-time weather forecas
 
 ## 📸 Screenshots  
 
-(Include some UI images here)  
 
 ## 🏗️ Installation & Setup  
 
